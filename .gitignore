@@ -1,0 +1,18 @@
+# Outputs / big files
+data/
+results/
+logs/
+*.bam
+*.bai
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.sam
+
+# R
+.Rhistory
+.RData
+
+# OS
+.DS_Store
+Thumbs.db
