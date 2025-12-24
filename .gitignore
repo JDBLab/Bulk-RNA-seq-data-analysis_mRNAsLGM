@@ -1,0 +1,32 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.Rhistory
+.RData
+.Rproj.user/
+
+# Outputs / big files
+data/
+results/
+logs/
+*.bam
+*.bai
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.sam
+*.cram
+*.crai
+
+# Reports
+*.html
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.svg
+
+# Conda
+.conda/
